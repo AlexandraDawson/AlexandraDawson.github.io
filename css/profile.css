@@ -45,5 +45,13 @@ strong {
 }
 
 h1 {
-	text-shadow: 3px 2px black;
+	text-shadow: 3px 2px 5px black;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
 }
+
+h2 {
+	text-shadow: 2px 1px black;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+	
+
