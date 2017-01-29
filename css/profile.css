@@ -32,3 +32,18 @@ strong {
   background-image: url("../img/black-white-background-3.jpg");
   background-repeat: repeat-x;
 }
+
+.jumbotron {
+  min-height: 100%;
+  background-image: url("../img/avedon_darker.jpg");
+  background-size: cover;
+  color: white;
+}
+
+.index {
+	background: white;
+}
+
+h1 {
+	text-shadow: 3px 2px black;
+}
